@@ -3,8 +3,8 @@ import './Chat.css'
 
 function Chat() {
     return (
-        <div>
-            
+        <div className="chat">
+            <h1>From Chat</h1>
         </div>
     )
 }
