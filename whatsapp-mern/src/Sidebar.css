@@ -49,3 +49,13 @@
     outline-width: 0;
     margin-left: 10px;
 }
+
+.sidebar__chats{
+    float: 1;
+    background-color: white;
+    overflow: scroll;
+    height: 80%;
+}
+.sidebar__chats::-webkit-scrollbar {
+    display: none;
+  }
